@@ -17,3 +17,7 @@
 # junto a la inteligencia artificial para aprender a hacer el juego por mi propia mano.
 
 # Voy a colocar como será el juego, o almenos como pensamos que será.
+
+# --------COMO SERÁ EL JUEGO--------
+
+# El jugador será Jason y tendrá que matar personas, los cuales solo verán a Jason si este se encuentra dentro de su campo de visión. (El campo de visión es del tamaño de un cuarto de circunferencia, es decir, 90 grados. 45 grados desde el centro hacia arriba y 45 grados desde el centro hacia abajo) . En caso de que Jason se acerque a esas personas sin entrar en el campo de vision, estos no escaparán y morirán en el momento. En caso de que Jason entre en el campo de vision de estos, el jugador entrará en una pantalla de ataque junto a una barra donde habrá debajo una flecha que indica el momento en el que golpeas. la barra tiene un lugar de color verde y el resto es de color rojo. Si le das al verde, matas a la persona, si le das al rojo permites que la persona escape y el jugador recibirá un poco de daño.
