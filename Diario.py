@@ -21,3 +21,11 @@
 # --------COMO SERÁ EL JUEGO--------
 
 # El jugador será Jason y tendrá que matar personas, los cuales solo verán a Jason si este se encuentra dentro de su campo de visión. (El campo de visión es del tamaño de un cuarto de circunferencia, es decir, 90 grados. 45 grados desde el centro hacia arriba y 45 grados desde el centro hacia abajo) . En caso de que Jason se acerque a esas personas sin entrar en el campo de vision, estos no escaparán y morirán en el momento. En caso de que Jason entre en el campo de vision de estos, el jugador entrará en una pantalla de ataque junto a una barra donde habrá debajo una flecha que indica el momento en el que golpeas. la barra tiene un lugar de color verde y el resto es de color rojo. Si le das al verde, matas a la persona, si le das al rojo permites que la persona escape y el jugador recibirá un poco de daño.
+
+Habra un punto de spawn que sera la casa de Jason. Alli conseguira el mapa i su arma principal. 
+Una vez recojidos los objetos saldras por la puerta y apareceras en el centro del mapa.
+En ese momento el reloj empezara a contar y tendras 15 minutos para atrapar a todos los campistas.
+Si no los atrapas a todos perderas el juego.
+En el minuto 5 aparecera Tommy Jrvis el cual puede matarte si te dispara tres veces.
+El tiempo de recarga de sus valas sera de 30 segundos entre ellas.
+Para entrar a las casas habra que romper la puerta pilsando multiples veces una tecla.
