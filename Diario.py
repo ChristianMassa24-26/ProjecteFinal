@@ -22,10 +22,17 @@
 
 # El jugador será Jason y tendrá que matar personas, los cuales solo verán a Jason si este se encuentra dentro de su campo de visión. (El campo de visión es del tamaño de un cuarto de circunferencia, es decir, 90 grados. 45 grados desde el centro hacia arriba y 45 grados desde el centro hacia abajo) . En caso de que Jason se acerque a esas personas sin entrar en el campo de vision, estos no escaparán y morirán en el momento. En caso de que Jason entre en el campo de vision de estos, el jugador entrará en una pantalla de ataque junto a una barra donde habrá debajo una flecha que indica el momento en el que golpeas. la barra tiene un lugar de color verde y el resto es de color rojo. Si le das al verde, matas a la persona, si le das al rojo permites que la persona escape y el jugador recibirá un poco de daño.
 
-Habra un punto de spawn que sera la casa de Jason. Alli conseguira el mapa i su arma principal. 
-Una vez recojidos los objetos saldras por la puerta y apareceras en el centro del mapa.
-En ese momento el reloj empezara a contar y tendras 15 minutos para atrapar a todos los campistas.
-Si no los atrapas a todos perderas el juego.
-En el minuto 5 aparecera Tommy Jrvis el cual puede matarte si te dispara tres veces.
-El tiempo de recarga de sus valas sera de 30 segundos entre ellas.
-Para entrar a las casas habra que romper la puerta pilsando multiples veces una tecla.
+El juego comienza en la casa de Jason, que servirá como su punto de aparición.
+Allí, Jason podrá conseguir el mapa y su arma principal.
+Una vez haya recogido estos objetos, saldrá por la puerta y aparecerá en el centro del mapa.
+En ese momento, el reloj comenzará a contar y tendrás 15 minutos para atrapar a todos los campistas.
+Si no logras atraparlos antes de que se acabe el tiempo, perderás el juego.
+A los 5 minutos de iniciar, aparecerá Tommy Jarvis. 
+Él podrá matarte si te dispara tres veces. 
+Las balas de Tommy tienen un tiempo de recarga de 30 segundos entre cada disparo.
+Para entrar a las casas, Jason deberá romper las puertas, lo cual se hará presionando repetidamente una tecla.
+La velocidad de Jason es más lenta que la de los campistas, pero solo si estos tienen energía. 
+Esta energía se va agotando con el tiempo.
+Cuando la energía de un campista se agota, habrá un tiempo de espera de 10 segundos antes de que se recargue. 
+Para que los campistas puedan volver a correr, su barra de energía debe alcanzar al menos el 50% de su capacidad.  
+Cuando los campistas no tengan energía, se moverán más lentamente que Jason.
