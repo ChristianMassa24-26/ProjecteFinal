@@ -36,3 +36,6 @@ Esta energía se va agotando con el tiempo.
 Cuando la energía de un campista se agota, habrá un tiempo de espera de 10 segundos antes de que se recargue. 
 Para que los campistas puedan volver a correr, su barra de energía debe alcanzar al menos el 50% de su capacidad.  
 Cuando los campistas no tengan energía, se moverán más lentamente que Jason.
+Cuando jason mata a alguine sonara el audio ki ki ki ma ma ma
+Enla casa de jason su madre le dira: audio kill them all
+Cuando gane la partida su madre le dira: audio good boy jason.
