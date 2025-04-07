@@ -40,3 +40,5 @@ Cuando jason mata a alguine sonara el audio ki ki ki ma ma ma
 Enla casa de jason su madre le dira: audio kill them all
 Cuando gane la partida su madre le dira: audio good boy jason.
 Si entras en el campo de vision de un campista gritara de terror.
+Cuando entres al minijuego se parara el tiempo y si en 10 segundos no has matado al campista este escapara y te aturdira 10 segundos.
+Los campistas pueden aturdirte si te golpean por detras 5 segundos.
